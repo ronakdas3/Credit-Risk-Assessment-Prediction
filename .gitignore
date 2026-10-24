@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+.mypy_cache/
+
+# Large files & weights
+*.pt
+*.pth
+*.bin
+*.tar
+*.tar.gz
+*.zip
+*.log
+
+# Personal & IDE configurations
+.vscode/
+.idea/
+.agents/rules/_active_profile_*.md
